@@ -6,7 +6,7 @@
 
 * [Key-word](undefined/quickstart.md)
 * [커뮤니티 프라이즈를 LL777 오리지널 게임에 확대 적용](undefined/publish-your-docs.md)
-* [Copy of Publish your docs](undefined/publish-your-docs-1.md)
+* [커뮤니티 프라이즈를 기존과 동일한 방식으로 통합 적용](undefined/publish-your-docs-1.md)
 
 ## 유저 등급 신설
 

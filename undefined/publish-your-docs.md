@@ -25,6 +25,6 @@ layout:
 
 # 커뮤니티 프라이즈를 LL777 오리지널 게임에 확대 적용
 
-* ### 기존게이트웨이게임에만적용된커뮤니티프ㅏ이즈를OL      L777 오리지널게임인   "아서", "제우스", "로터스포춘",  "제우스머니볼"에도동일한방식으로적용
+* ### 기존게이트웨이게임에만적용된커뮤니티프ㅏ이즈를OL      L777 오리지널게임인   "<mark style="color:$warning;">아서</mark>", "<mark style="color:$warning;">제우스</mark>", "<mark style="color:$warning;">로터스포춘</mark>",  "<mark style="color:$warning;">제우스머니볼</mark>"에도동일한방식으로적용
 * ### 추후 추가되는 모든 슬롯 머신 게임에도 동일하게 적용 예정
 

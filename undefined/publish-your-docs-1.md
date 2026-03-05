@@ -2,10 +2,12 @@
 icon: globe-pointer
 ---
 
-# Copy of Publish your docs
+# 커뮤니티 프라이즈를 기존과 동일한 방식으로 통합 적용
 
-Once you’ve finished writing, editing, or importing your content, you can publish your work to the web as a docs site. Once published, your site will be accessible online only to your selected audience.
+<figure><img src="../.gitbook/assets/123.png" alt=""><figcaption></figcaption></figure>
 
-You can publish your site and find related settings from your docs site's homepage.
-
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/publish-hero.png" alt=""><figcaption></figcaption></figure>
+{% hint style="warning" %}
+1. #### 게임 상단에 커뮤니티 프라이즈 창 추가 표시. 해당 부분을 선택하면 기존 게이트웨이 게임과 동일하게 게임 화면 상에 커뮤니티 프라이즈 창 발생.
+2. #### 커뮤니티 프라이즈 참가 여부 표시. 기존과 동일하게 스핀 후 25초 동안 유효 상태를 초록색으로 표시. 시간이 흐르면 노란색(참가)에서 비 참가 상태인 붉은색으로 변화됨.
+3. #### 기본 배팅 포인트에 5포인트 추가하여 차감. 예시 : 30 포인트 배팅 + 5 포인트.
+{% endhint %}
