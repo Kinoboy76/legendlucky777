@@ -4,8 +4,9 @@
 
 ## 커뮤니티 프라이즈 확대 적용
 
-* [Quickstart](undefined/quickstart.md)
-* [Publish your docs](undefined/publish-your-docs.md)
+* [Key-word](undefined/quickstart.md)
+* [커뮤니티 프라이즈를 LL777 오리지널 게임에 확대 적용](undefined/publish-your-docs.md)
+* [Copy of Publish your docs](undefined/publish-your-docs-1.md)
 
 ## 유저 등급 신설
 
